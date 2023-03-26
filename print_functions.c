@@ -4,7 +4,7 @@
 
 /**
  * print_char - Prints a char "Done"
- * by Joseph and Ciny
+ * by me001cyber & Prometheus1994
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
